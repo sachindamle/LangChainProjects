@@ -1,0 +1,28 @@
+langchain
+chromadb
+InstructorEmbedding
+faiss-cpu
+huggingface_hub
+transformers
+sentence-transformers
+unstructured
+unstructured[pdf]
+torch
+pypdf
+tiktoken
+
+# Utilities
+urllib3
+accelerate
+bitsandbytes 
+beautifulsoup4
+
+# Streamlit related
+streamlit
+Streamlit-extras
+
+# Development
+jupyterlab
+
+# Excel File Manipulation
+openpyxl
